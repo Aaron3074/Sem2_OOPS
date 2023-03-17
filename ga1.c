@@ -1,3 +1,4 @@
+// Free Code Camp Tutorial for C Programming
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -440,7 +441,7 @@ int main(){
 }*/
 
 // Reading Files
-int main(){
+/*int main(){
 
     char line[255];
     FILE * fpointer = fopen("employees.txt","r");
@@ -450,4 +451,4 @@ int main(){
     printf("%s\n",line);
     fclose(fpointer);
     return 0;
-}
+}*/
